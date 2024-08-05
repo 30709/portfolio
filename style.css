@@ -21,7 +21,7 @@ li{
 .container1{
     height: 900px;
 
-    background:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8)), url(./배경.jpg)no-repeat;
+    background:linear-gradient(rgb(0,0,0,0.8),rgb(0,0,0,0.8)), url(bg.jpg)no-repeat;
     background-size: cover;
     color: white;
 }
@@ -235,7 +235,7 @@ li{
 }
 .bg2{
     height: 650px;
-    background: url(./코딩.jpg) no-repeat;
+    background: url(coding.jpg) no-repeat;
     background-size: cover;
 
     background-attachment: fixed;
